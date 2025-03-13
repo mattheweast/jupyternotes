@@ -30,3 +30,12 @@ After the script has run, you can verify the data by running a simple query:
 1. In the Query Tool, type the following:
    ```sql
    SELECT * FROM customers LIMIT 5;
+
+## Installing Dependancies
+
+pip install -r requirements.txt
+
+requirements;
+- pandas
+- sqlalchemy
+- psycopg2
