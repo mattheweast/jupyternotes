@@ -43,7 +43,7 @@
     "    # Convert Fahrenheit to Celsius\n",
     "    return (x-32) * 5/9\n",
     "\n",
-    "to_celsius(75)"
+    "to_celsius(75)\n"
    ]
   },
   {
@@ -56,7 +56,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 1,
    "metadata": {},
    "outputs": [
     {
@@ -75,7 +75,8 @@
     "elif number == 0:\n",
     "    print('Number is zero.')\n",
     "else:\n",
-    "    print('Number is negative.')"
+    "    print('Number is negative.')\n",
+    "    "
    ]
   },
   {
@@ -89,6 +90,11 @@
     "- variable names and function names should be written in snake_case\n",
     "- descriptive names are better than cryptic abbreviations"
    ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": []
   }
  ],
  "metadata": {

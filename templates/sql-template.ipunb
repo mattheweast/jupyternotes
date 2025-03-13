@@ -9,7 +9,8 @@
     "import pandas as pd\n",
     "import sqlalchemy\n",
     "\n",
-    "engine = sqlalchemy.create_engine('postgresql://matteast@localhost:5432/northwind')"
+    "engine = sqlalchemy.create_engine('postgresql://matteast@localhost:5432/northwind')\n",
+    "%config Completer.use_jedi = False\n"
    ]
   },
   {
