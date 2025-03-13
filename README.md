@@ -1,3 +1,5 @@
+# SQL PROJECT README
+
 # Running the Northwind Database in pgAdmin 4
 
 ## 1. Download the Northwind Database
